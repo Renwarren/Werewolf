@@ -1,2 +1,2 @@
 # Werewolf
-The online werewolf game. 
+The online werewolf game in Rust
